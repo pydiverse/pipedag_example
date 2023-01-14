@@ -1,0 +1,9 @@
+name: pipedag_example
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pydiverse-pipedag
+  - psycopg2
+  - kazoo
+  - docker-compose
